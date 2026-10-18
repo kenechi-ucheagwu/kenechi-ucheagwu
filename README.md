@@ -4,7 +4,7 @@ IT Operations & Systems Manager at a three-site medical practice in Jersey City,
 
 Most of what I build lives in private repos because it touches healthcare systems, so the proof lives here instead:
 
-**[dadabbler.github.io](https://dadabbler.github.io)** — case studies with documented results: a billing automation pipeline, a medical-device-to-EHR integration bridge, PHI guardrails for AI-assisted workflows, and a homelab incident postmortem.
+**[kenechi-ucheagwu.github.io](https://kenechi-ucheagwu.github.io)** — case studies with documented results: a billing automation pipeline, a medical-device-to-EHR integration bridge, PHI guardrails for AI-assisted workflows, and a homelab incident postmortem.
 
 Interested in healthcare IT, clinical systems, and automation with hard privacy boundaries.
 

@@ -1,11 +1,12 @@
 # Kenechi Ucheagwu
 
-IT Operations & Systems Manager at a three-site medical practice in Jersey City, where I run the infrastructure, administer the EHR, and build the automation that keeps a small clinical team ahead of its workload. Computer science degree, currently completing a BSN to deepen the clinical side of the work.
+IT Operations & Systems Manager at a family-medicine practice in Jersey City. I run the infrastructure, the EHR and security, and I build AI agent systems and Python automation with guardrails: dry runs first, audit logs, and a person on every final submit. B.S. in Computer Science, and I'm finishing a BSN (May 2027), so I know the clinical side as well as the systems.
 
-Most of what I build lives in private repos because it touches healthcare systems, so the proof lives here instead:
+## Public code
 
-**[kenechi-ucheagwu.github.io](https://kenechi-ucheagwu.github.io)** — case studies with documented results: a billing automation pipeline, a medical-device-to-EHR integration bridge, PHI guardrails for AI-assisted workflows, and a homelab incident postmortem.
+- **[billing-automation-showcase](https://github.com/kenechi-ucheagwu/billing-automation-showcase)**: guarded billing changes against a mock EHR that injects faults. Dry run by default, an approved first batch, circuit breakers and a hash-chained audit log. 103 tests, synthetic data.
+- **[phi-guardrails](https://github.com/kenechi-ucheagwu/phi-guardrails)**: git hooks and a full-history scan that keep patient names and IDs out of code, using HMAC digests instead of a readable patient list. 140 tests, synthetic data.
 
-Interested in healthcare IT, clinical systems, and automation with hard privacy boundaries.
+Most of what I build touches healthcare systems, so it stays in private repos. Case studies for that work are at **[kenechi-ucheagwu.github.io](https://kenechi-ucheagwu.github.io)**.
 
-📫 kacy.ucheagwu@gmail.com · [LinkedIn](https://www.linkedin.com/in/kenechi-ucheagwu)
+Email kacy.ucheagwu@gmail.com · [LinkedIn](https://www.linkedin.com/in/kenechi-ucheagwu)

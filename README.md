@@ -1,12 +1,12 @@
 # Kenechi Ucheagwu
 
-IT Operations & Systems Manager at a family-medicine practice in Jersey City. I run the infrastructure, the EHR and security, and I build AI agent systems and Python automation with guardrails: dry runs first, audit logs, and a person on every final submit. B.S. in Computer Science, and I'm finishing a BSN (May 2027), so I know the clinical side as well as the systems.
+I run IT and billing for a family-medicine practice in Jersey City, and I use AI to build tools for the front desk and billing office. Most of what I build is for work I've done myself. I started at the practice in 2017 as a medical assistant, took over the billing and coding in 2021, and became its IT Operations & Systems Manager in 2022, the year I finished my computer science degree. I'm still the practice's only biller, and I'm in nursing school (BSN, expected May 2027).
 
 ## Public code
 
-- **[billing-automation-showcase](https://github.com/kenechi-ucheagwu/billing-automation-showcase)**: guarded billing changes against a mock EHR that injects faults. Dry run by default, an approved first batch, circuit breakers and a hash-chained audit log. 103 tests, synthetic data.
-- **[phi-guardrails](https://github.com/kenechi-ucheagwu/phi-guardrails)**: git hooks and a full-history scan that keep patient names and IDs out of code, using HMAC digests instead of a readable patient list. 140 tests, synthetic data.
+- **[billing-automation-showcase](https://github.com/kenechi-ucheagwu/billing-automation-showcase)**: a demo of billing changes against a mock EHR, with a person on the final submit. 103 tests, synthetic data.
+- **[phi-guardrails](https://github.com/kenechi-ucheagwu/phi-guardrails)**: git hooks and a full-history scan that keep patient names, member IDs and credentials out of code repositories. I built it after auditing my own repositories before making any of them public. 140 tests, synthetic data.
 
-Most of what I build touches healthcare systems, so it stays in private repos. Case studies for that work are at **[kenechi-ucheagwu.github.io](https://kenechi-ucheagwu.github.io)**.
+The office code stays private because it touches patient data. Case studies from my work at the practice are at **[kenechi-ucheagwu.github.io](https://kenechi-ucheagwu.github.io)**.
 
 Email kacy.ucheagwu@gmail.com · [LinkedIn](https://www.linkedin.com/in/kenechi-ucheagwu)
